@@ -1,20 +1,21 @@
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm RED🔴</h1>
-<h3 align="center">Welcome to Red's world!🙌</h3>
+<h1 align="center">Welcome to Red's world!🙌</h1>
+
+<h2 align="center">Hi 👋, I'm RED🔴</h2>
 - 🔭 I’m currently working as a **Freelancer**<br>
-- 👯 I am interested in collaborating with you on ** your new project**<br>
-- 🤝 I am seeking assistance with finding a new job. **finding a new job**<br>
+- 👯 I am interested in collaborating with you on **your new project**<br>
+- 🤝 I am seeking assistance with finding a new job.<br>
 - 🌱 I’m currently learning **new features and skills**<br>
 - 💬 Ask me about **anything**<br>
 - 📫 How to reach me **tomb24708@gmail.com**<br>
 - 👨‍💻 About me **welecometoportfolio.nicepage.io**<br>
 - 📝 I regularly write articles on **Github**<br>
-- ⚡ Fun fact: I love clean, simple & unique design **I also enjoy crafting**<br>
+- ⚡ Fun fact: I love clean, simple & unique design **I also enjoy crafting**
+<hr>
 
 <div> <a href="https://github.com/RED0731" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:tomb24708@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
+</div><h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -46,5 +47,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
