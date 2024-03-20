@@ -6,7 +6,7 @@
 - 🤝 I am seeking assistance with finding a new job.<br>
 - 🌱 I’m currently learning **new features and skills**<br>
 - 💬 Ask me about **anything**<br>
-- 📫 How to reach me **tomb24708@gmail.com**<br>
+- 📫 How to reach me **abuntrock.dev@gmail.com**<br>
 - 👨‍💻 About me **here**<br>
 - 📝 I regularly write articles on **Github**<br>
 - ⚡ Fun fact: I love clean, simple & unique design **I also enjoy crafting**
